@@ -12,7 +12,7 @@
 
 ## About
 
-A simple and beautiful personal finance manager to track incomes and expenses.
+A simple and beautiful budget manager to track incomes and expenses.
 
 ## Features
 
@@ -31,11 +31,9 @@ The following tools were used in this project:
 - [Axios](https://github.com/axios/axios)
 - [Styled Components](https://styled-components.com/)
 
-## Requirements
-
-Before starting, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
-
 ## Getting started
+
+First of all, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
 ```bash
 # Clone this project
@@ -52,7 +50,3 @@ $ yarn start
 
 # The server will initialize in the localhost
 ```
-
-<br>
-
-<a href="#top">Back to top</a>
