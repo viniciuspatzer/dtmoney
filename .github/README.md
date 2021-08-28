@@ -48,5 +48,5 @@ $ yarn install
 # Run the project
 $ yarn start
 
-# The server will initialize in the localhost
+# The server will initialize on the localhost
 ```
