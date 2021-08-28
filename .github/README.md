@@ -26,10 +26,10 @@ The following tools were used in this project:
 
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
 - [MirageJS](https://miragejs.com/)
 - [Polished](https://polished.js.org/)
 - [Axios](https://github.com/axios/axios)
-- [Styled Components](https://styled-components.com/)
 
 ## Getting started
 
